@@ -20,3 +20,21 @@ a {
 ul {
     list-style: none;
 }
+
+header {
+    padding: 2rem 2rem;
+    
+}
+
+header ul {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    
+}
+
+p {
+    padding: 2rem 2rem;
+    color: aliceblue;
+    font-size: 20px;
+}
